@@ -28,5 +28,15 @@ The goal is to demonstrate **React**, **routing**, **components**, **hooks**, an
 ---
 
 ## 📦 NPM Packages Used  
-You can edit this list as needed depending on your real project.
+
+-react-router
+-react-router-dom
+-axios
+-firebase (if used)
+-react-hot-toast
+-aos
+-lucide-react
+-react-loader-spinner
+-tailwindcss
+-daisyui
 
