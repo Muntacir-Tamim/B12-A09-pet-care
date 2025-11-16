@@ -1,16 +1,32 @@
-# React + Vite
+# Winter Pet Care Services
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and user-friendly web application designed to help pet owners access essential winter care services for their pets. The platform showcases various services, details, and pricing so users can easily choose the best care options for their beloved animals.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Website  
+👉 **https://winter-pet-care-services.netlify.app**
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Purpose of the Project  
+During winter, pets need extra care, warm shelter, proper grooming, and health monitoring. This project aims to provide a clean and simple interface where users can explore different pet care services, check details, and make informed decisions.  
+The goal is to demonstrate **React**, **routing**, **components**, **hooks**, and **mobile-responsive UI design** skills.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⭐ Key Features  
+- 🐾 **Responsive Design** – Works smoothly on mobile, tablet, and desktop.  
+- 🐶 **Service Listing** – Shows all available winter pet care services.  
+- ❄️ **Service Details Page** – Each service has detailed information and pricing.  
+- 🔍 **Search Functionality** – Users can search services easily.  
+- 🔄 **Dynamic Routing** using React Router.  
+- ⚡ **Loading Skeletons & Spinners** for better user experience.  
+- 📦 **Reusable Components** for clean and structured code.  
+- 🌙 **Modern UI** with Tailwind + DaisyUI.
+
+---
+
+## 📦 NPM Packages Used  
+You can edit this list as needed depending on your real project.
+
