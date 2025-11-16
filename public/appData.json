@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting & Customization",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable and stylish in the cold.",
+    "image": "https://i.ibb.co/3ywyFFMf/pic01.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo to prevent dry skin.",
+    "image": "https://i.ibb.co/bgkKgNVD/pic02.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Senior Pet Joint Warm-Up Therapy",
+    "providerName": "Gentle Paws Clinic",
+    "providerEmail": "clinic@gentlepaws.com",
+    "price": 45,
+    "rating": 4.7,
+    "slotsAvailable": 2,
+    "description": "Specialized massage and heat therapy for older pets to relieve winter joint stiffness and arthritis pain.",
+    "image": "https://i.ibb.co/M5htVyv1/pic03.jpg",
+    "category": "Therapy"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Indoor Exercise & Socialization Hour",
+    "providerName": "Happy Tails Daycare",
+    "providerEmail": "daycare@happytails.com",
+    "price": 20,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "A supervised indoor play session to keep pets active and mentally stimulated during extreme cold.",
+    "image": "https://i.ibb.co/t6kGm3H/pic04.jpg",
+    "category": "Activity"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Nutritional Winter Diet Consultation",
+    "providerName": "PetWell Nutrition",
+    "providerEmail": "diet@petwell.com",
+    "price": 35,
+    "rating": 4.9,
+    "slotsAvailable": 3,
+    "description": "One-on-one consultation for adjusting your pet's diet to meet increased caloric needs and maintain immunity in winter.",
+    "image": "https://i.ibb.co/KjvjJ3fJ/pic05.jpg",
+    "category": "Consultation"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Winter Emergency Heating",
+    "providerName": "Safe Haven Boarding",
+    "providerEmail": "stay@safehaven.com",
+    "price": 55,
+    "rating": 4.5,
+    "slotsAvailable": 10,
+    "description": "Heated, private boarding rooms for pets during severe winter weather or power outages.",
+    "image": "https://i.ibb.co/7NJRGKtF/pic07.jpg",
+    "category": "Accommodation"
+  }
+]
